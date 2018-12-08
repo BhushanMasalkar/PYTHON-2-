@@ -4,7 +4,7 @@ for i in range(k):
         print('*', end="")
     print('')
 
-for i in range(k,o,-1):
+for i in range(k,0,-1):
     for j in range(i):
         print('*', end="")
     print('')
